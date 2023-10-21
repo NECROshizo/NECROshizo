@@ -20,8 +20,8 @@
  ![](https://img.shields.io/badge/Docker-loader-blue?style=flat&logo=docker&logoColor=white)
  ![](https://img.shields.io/badge/SQLalchemy-cook-blue?t&logo=python&logoColor=white)
  ![](https://img.shields.io/badge/RabbitMQ-driver-blue?style=flat&logo=rabbitmq&logoColor=white)
- ![](https://img.shields.io/badge/Git-Lover-blue?style=flat&logo=git&logoColor=white)
+ ![](https://img.shields.io/badge/Git-lover-blue?style=flat&logo=git&logoColor=white)
  ![](https://img.shields.io/badge/GitHub%20Actions-Workflow%20Automator-blue?style=flat&logo=github-actions&logoColor=white) 
- ![](https://img.shields.io/badge/Scrapy-Master-blue?style=flat&logo=scrapy&logoColor=white)
+ ![](https://img.shields.io/badge/Scrapy-master-blue?style=flat&logo=scrapy&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NECROshizo&theme=github_dark)
