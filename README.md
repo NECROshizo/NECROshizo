@@ -6,7 +6,7 @@
 [![KISS](https://img.shields.io/badge/KISS-expert-success?style=flat)](https://en.wikipedia.org/wiki/KISS_principle)
 [![TDD](https://img.shields.io/badge/TDD-thinker-success?style=flat)](https://en.wikipedia.org/wiki/Test-driven_development)
 
-Я - Python Backend Developer с большой страстью к созданию веб-приложений и сервисов. Добро пожаловать на мою GitHub-страницу! Всегда рад и благодарен вашим замечаниям по коду и звездам ٩(♡ε♡)۶.
+Я - Python Backend Developer увлеченный созданием веб-приложений и сервисов. Добро пожаловать на мою GitHub-страницу! Всегда рад и благодарен вашим замечаниям по коду и звездам ٩(♡ε♡)۶.
 
 ## Мои навыки
 
